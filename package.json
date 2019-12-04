@@ -1,0 +1,23 @@
+{
+    "name": "@avon-maps/prettier-config",
+    "version": "0.0.1",
+    "description": "Common configuration files for prettier",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/avonmaps/prettier-config-avon-maps.git"
+    },
+    "publishConfig": {
+        "registry": "https://nexus.blackbelt.cloud/repository/npm-avon-maps/"
+    },
+    "keywords": [
+        "prettier",
+        "prettier-config"
+    ],
+    "author": "BlackBelt",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/avonmaps/prettier-config-avon-maps/issues"
+    },
+    "homepage": "https://github.com/avonmaps/prettier-config-avon-maps#readme"
+}
